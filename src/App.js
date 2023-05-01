@@ -11,7 +11,7 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-        <Route path="/" element={<Navigate to="/React-Ecommerce-Website" />} />
+        <Route path="/" element={<Navigate to="/cart" />} />
           <Route path="/React-Ecommerce-Website"  element={<Shop />} />
           <Route path="/cart" element={<Cart />} />
         </Routes>
@@ -22,3 +22,5 @@ function App() {
 }
 
 export default App;
+
+// React-Ecommerce-Website
