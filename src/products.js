@@ -18,50 +18,50 @@ export const PRODUCTS = [
 
     {
         id: 2,
-        productName: "Ragac",
+        productName: "Laptop",
         price: 1239.0,
         productImage: product2,
     },
 
     {
         id: 3,
-        productName: "IPhone",
-        price: 999.0,
+        productName: "Camera",
+        price: 599.0,
         productImage: product3,
     },
 
     {
         id: 4,
-        productName: "IPhone",
-        price: 999.0,
+        productName: "Jacket",
+        price: 50.0,
         productImage: product4,
     },
 
     {
         id: 5,
-        productName: "IPhone",
-        price: 999.0,
+        productName: "Led lights",
+        price: 29.0,
         productImage: product5,
     },
 
     {
         id: 6,
-        productName: "IPhone",
-        price: 999.0,
+        productName: "Dont Trip",
+        price: 49.0,
         productImage: product6,
     },
 
     {
         id: 7,
-        productName: "IPhone",
-        price: 999.0,
+        productName: "Tshirt",
+        price: 36.0,
         productImage: product7,
     },
 
     {
         id: 8,
-        productName: "IPhone",
-        price: 999.0,
+        productName: "Hat",
+        price: 39.0,
         productImage: product8,
     }
 
