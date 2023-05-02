@@ -1,4 +1,8 @@
 <h1>"This ReactJS-based eCommerce website delivers seamless and great user experience. Elevate your online business with our optimized platform."</h1>
 
+![image](https://user-images.githubusercontent.com/93291077/235644184-709c0215-c2b9-4827-9213-af4927c02688.png)
 
-![king](https://user-images.githubusercontent.com/93291077/235643985-8f9021dc-543c-4a29-aa70-9417242dc49f.jpg)
+![image](https://user-images.githubusercontent.com/93291077/235644222-403a1d02-d17d-4d94-abf0-10527d385755.png)
+
+
+
